@@ -41,3 +41,4 @@ CMD bash /app/build_cert.sh $DERP_HOST $DERP_CERTS /app/san.conf && \
     --a=$DERP_ADDR \
     --http-port=$DERP_HTTP_PORT \
     --verify-clients=$DERP_VERIFY_CLIENTS
+ 
